@@ -1,0 +1,34 @@
+[
+  {
+    "customer": "联科",
+    "contact": "王平",
+    "date": "2026-04-19",
+    "items": [
+      {
+        "编号": 1,
+        "品名": "色织布",
+        "规格": "58“",
+        "单价/码": "24元/码"
+      }
+    ],
+    "remark": "1. 以上为本公司统一价格\nAll prices listed above are our company's standard quotations.\n\n2. 颜色可以根据客户要求生产，一般不另加价。\nColors can be produced as per customer's requirements, with generally no additional charge.\n\n3. 本公司负责为客户送到指定地点。\nWe will arrange delivery of the goods to the designated location specified by the customer.\n4. 本公司结算方式按约定。\nPayment terms shall be as mutually agreed upon by both parties.\n5. 本报价单一经客户确认后，即作为定单附件。\nOnce confirmed by the customer, this quotation shall become an integral part of the corresponding purchase order (PO).",
+    "created_at": "2026-04-19 18:06:36",
+    "signed_image": ""
+  },
+  {
+    "customer": "名犬",
+    "contact": "宋仔",
+    "date": "2026-04-19",
+    "items": [
+      {
+        "编号": 1,
+        "品名": "帆布",
+        "规格": 44,
+        "单价/码": 12
+      }
+    ],
+    "remark": "1. 以上为本公司统一价格\nAll prices listed above are our company's standard quotations.\n\n2. 颜色可以根据客户要求生产，一般不另加价。\nColors can be produced as per customer's requirements, with generally no additional charge.\n\n3. 本公司负责为客户送到指定地点。\nWe will arrange delivery of the goods to the designated location specified by the customer.\n4. 本公司结算方式按约定。\nPayment terms shall be as mutually agreed upon by both parties.\n5. 本报价单一经客户确认后，即作为定单附件。\nOnce confirmed by the customer, this quotation shall become an integral part of the corresponding purchase order (PO).",
+    "created_at": "2026-04-19 18:31:27",
+    "signed_image": "C:/Users/Administrator/Desktop/ebf56e5c58bb4dbb6f306bb1decd1af.jpg"
+  }
+]

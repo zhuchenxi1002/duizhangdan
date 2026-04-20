@@ -1,0 +1,11 @@
+系统名称:老王账单管理系统
+公司名称:东莞市联柯纺织品有限公司
+公司地址:
+联系电话:
+银行账号:
+开户银行:
+纸张大小:A4
+LOGO路径:C:/Users/Administrator/Desktop/LOGO.png
+公章路径:C:/Users/Administrator/Desktop/yinzhang.png
+报价人:王平
+经办人:王平
